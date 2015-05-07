@@ -16,4 +16,4 @@ next move!
 
 ######Disclaimer
 
-######The program remains unifinished. The program contains one mega-hash that requires a lot of input. It was my birthday when I created this program. I believe no one should have to work on their birthday. What else is it for?
+######The program remains unifinished. The program contains one mega-hash that requires a lot of input. It was my birthday when I created this program. I believe no one should have to work on their birthday. If I were President...
